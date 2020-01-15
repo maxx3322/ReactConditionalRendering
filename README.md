@@ -1,2 +1,0 @@
-# ReactConditionalRendering
-Created with CodeSandbox
